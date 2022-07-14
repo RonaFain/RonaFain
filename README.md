@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I am Rona Fainshtein, currently working as a Full-Stack Developer / Coding Course Instructor at [MISTERBIT Technological Solutions](https://www.coding-academy.org/index.php).
+### I am Rona Fainshtein, currently working as a Full-Stack Developer / Coding Course Instructor at [MISTERBIT Technological Solutions](https://www.coding-academy.org/index.php).
 
 <br>
 
