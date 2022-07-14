@@ -14,9 +14,13 @@ I am Rona Fainshtein, currently working as a Full-Stack Developer / Coding Cours
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=flat" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=flat" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=flat" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" />
  </p>
+<br>
+
+  Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${RonaFain}.${513496894})
 
 <br>
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=RonaFain&layout=compact />
