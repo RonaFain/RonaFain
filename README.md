@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I am Rona Fainshtein, currently working as a Full-Stack Developer / Coding Course Instructor at [MISTERBIT Technological Solutions](https://www.coding-academy.org/index.php).
+I am Rona Fainshtein, currently working as a Full-Stack Developer / Coding Course Instructor at [MISTERBIT Technological Solutions](https://www.coding-academy.org/index.php). :computer:
 
----
-
-#### Technologies and Tools
+#### :hammer_and_wrench: Technologies and Tools
 <p>
   <img alt="react" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vuejs&logoColor=white&style=flat" />
@@ -21,10 +19,6 @@ I am Rona Fainshtein, currently working as a Full-Stack Developer / Coding Cours
 <br>
 
 Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${RonaFain}.${513496894})
-
----
-
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=RonaFain&layout=compact />
 
 <!--
 **RonaFain/RonaFain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
