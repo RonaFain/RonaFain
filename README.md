@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Rona Fainshtein, currently working as a Full-Stack Developer / Coding Course Instructor at [MISTERBIT Technological Solutions](https://www.coding-academy.org/index.php).
+
 ---
 
 #### Technologies and Tools
@@ -20,6 +21,7 @@ I am Rona Fainshtein, currently working as a Full-Stack Developer / Coding Cours
 <br>
 
 Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${RonaFain}.${513496894})
+
 ---
 
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=RonaFain&layout=compact />
