@@ -16,15 +16,17 @@ I am Rona Fainshtein, currently working as a Full-Stack Developer / Coding Cours
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=Heroku&logoColor=white&style=flat" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat" />
  </p>
+ 
+ ---
 
-#### :raising_hand_woman: About me
+#### :raising_hand_woman: About Me :
 - 🔭 I’m currently working on TS project
 - 🌱 I’m currently learning Next.js
 - 📫 You can reach me at [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rona-fainshtein)
 
 ---
 
-### :fire: My Stats :
+#### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaFain)](https://github.com/anuraghazra/github-readme-stats)
 
